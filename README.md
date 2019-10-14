@@ -1,6 +1,6 @@
 # Airflow: your ally for automating machine learning and data pipelines
 
-### PyCon DE & PyData Berlin // 10th October 9 - 13 2019
+### PyCon DE & PyData Berlin // 10th October 2019
 
 #### E. Pasqua, B. Uyarer @ [Delivery Hero](https://www.deliveryhero.com)
 
